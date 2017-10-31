@@ -9,7 +9,6 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @EnableEurekaClient
 @SpringBootApplication
 public class WindCloudConfigApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(WindCloudConfigApplication.class, args);
 	}
